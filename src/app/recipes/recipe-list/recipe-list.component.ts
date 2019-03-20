@@ -13,8 +13,6 @@ export class RecipeListComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    debugger;
-    console.log(this.arr);
   }
 
 }
